@@ -1,0 +1,40 @@
+/* h3 {
+    color: darkorange;
+    background-origin: padding-box;
+    border: 2px dashed black;
+}
+p {
+    color: #a56f10;
+    
+    
+}
+
+button { 
+    background-color: darkorange;
+    
+}
+
+body {
+  background-color: #AAC4F5;
+
+}
+
+.h2{
+    color :#bc3d3d
+} */
+
+*{
+    color: darkslateblue;
+}
+
+h1 {
+    color: darkorange;
+}
+
+button {
+    color: darkred;
+}
+
+#h1 {
+    color: darkgreen;   
+}
